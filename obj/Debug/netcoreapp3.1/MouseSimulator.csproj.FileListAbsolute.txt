@@ -1,0 +1,34 @@
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.csproj.GenerateResource.cache
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.AssemblyInfoInputs.cache
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.AssemblyInfo.cs
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\bin\Debug\netcoreapp3.1\Gma.System.MouseKeyHook.dll
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.csprojAssemblyReference.cache
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.csproj.CoreCompileInputs.cache
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.csproj.CopyComplete
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.genruntimeconfig.cache
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.Main.resources
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.exe
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.deps.json
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.runtimeconfig.json
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.runtimeconfig.dev.json
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.dll
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.pdb
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\obj\Debug\netcoreapp3.1\Microsoft Software Protection.dll
+E:\WorkSpace\MouseSimulator2.0\globalmousekeyhook-vNext\MouseSimulator\obj\Debug\netcoreapp3.1\Microsoft Software Protection.pdb
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.exe
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.deps.json
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.runtimeconfig.json
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.runtimeconfig.dev.json
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.dll
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\bin\Debug\netcoreapp3.1\Microsoft Software Protection.pdb
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\bin\Debug\netcoreapp3.1\Gma.System.MouseKeyHook.dll
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.csprojAssemblyReference.cache
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.Main.resources
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.csproj.GenerateResource.cache
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.AssemblyInfoInputs.cache
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.AssemblyInfo.cs
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.csproj.CoreCompileInputs.cache
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.csproj.CopyComplete
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\obj\Debug\netcoreapp3.1\Microsoft Software Protection.dll
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\obj\Debug\netcoreapp3.1\Microsoft Software Protection.pdb
+E:\WorkSpace\GITHUB\MouseAndKeyBoardEventsSimulator\obj\Debug\netcoreapp3.1\MouseSimulator.genruntimeconfig.cache
