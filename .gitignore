@@ -10,6 +10,8 @@ main.js
 src/**/*.js
 !src/karma.conf.js
 *.js.map
+/bin/**/*
+/obj/**/*
 
 # dependencies
 /node_modules
